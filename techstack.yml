@@ -1,7 +1,8 @@
 repo_name: mcabreradev/supreme-engine
 report_id: fef49545d045dc9675e7a0ebad3648ec
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:31:07+00:00'
+timestamp: '2024-01-05T08:44:28+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/supreme-engine
   detection_source: Repo Metadata
